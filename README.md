@@ -1,6 +1,4 @@
-# APP 1.
-
-# scouts-test.futbolkolektyw.pl
+# APP - # scouts-test.futbolkolektyw.pl
 
 # TEST CASES:
 
@@ -14,9 +12,7 @@
 
 1. https://docs.google.com/document/d/112nsbhbgzOQ68pWhWUxEaO1OCT4Kgdoz/edit
 
-# APP 2
-
-# OLX.pl 
+# APP - # OLX.pl 
 
 # TEST REPORT 
 
